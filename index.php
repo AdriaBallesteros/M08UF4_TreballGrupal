@@ -11,7 +11,17 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        
+            function funcion1(){
+                echo "funcion1";
+            }
+            
+            function funcion2(){
+                echo "funcion2";
+            }
+            
+            function funcion3(){
+                echo "funcion3";
+            }
         ?>
     </body>
 </html>
