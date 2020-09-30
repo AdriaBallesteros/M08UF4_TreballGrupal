@@ -19,7 +19,7 @@ and open the template in the editor.
                 echo "Joan Moreno";
             }
             
-            function idp_funcion3(){
+            function IDP(){
                 echo "funcion3";
             }
         ?>
