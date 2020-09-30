@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             function abb_funcion1(){
-                echo "funcion1";
+                echo "Adria Ballesteros";
             }
             
             function JMC(){
