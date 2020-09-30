@@ -15,8 +15,8 @@ and open the template in the editor.
                 echo "funcion1";
             }
             
-            function funcion2(){
-                echo "funcion2";
+            function JMC(){
+                echo "Joan Moreno";
             }
             
             function funcion3(){
