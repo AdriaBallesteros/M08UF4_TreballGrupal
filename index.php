@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            function funcion1(){
+            function abb_funcion1(){
                 echo "funcion1";
             }
             
@@ -19,7 +19,7 @@ and open the template in the editor.
                 echo "Joan Moreno";
             }
             
-            function funcion3(){
+            function idp_funcion3(){
                 echo "funcion3";
             }
         ?>
